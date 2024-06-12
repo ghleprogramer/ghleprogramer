@@ -1,7 +1,7 @@
 - Hallo :)
 - Iam ghleprogramer from KSA
 - Interested in Fractals
-- Currently mostly done woking on fractal_gen
+- done fractal_gen
 - Plan to make an http server in c
 - Plan to learn rust
 - To reach me 1xmnx1@gmail.com
